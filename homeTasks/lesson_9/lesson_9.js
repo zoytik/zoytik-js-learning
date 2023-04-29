@@ -1,27 +1,32 @@
 /* lesson 9 */
 
 // 1
-let text = prompt('Введите текст')
-alert(text)
+
+/* let text = prompt('Введите текст')
+alert(text) */
 
 //2
-let firstNumber = prompt('введите первое число')
+
+/* let firstNumber = prompt('введите первое число')
 let secondNumber = prompt('ведите второе число')
 let Sumnumber = +firstNumber + +secondNumber
 alert(`сумма ${Sumnumber}`)
-clra
-//3 
-let userName = prompt('имя пользователя', '')
+ */
+
+//3
+
+/* let userName = prompt('имя пользователя', '')
 let userAge = prompt('возраcт пользователя', '')
 if(userAge >= 18){
-  alert(`Добро сдкфк
+  alert(`Добро
   пожаловать ${userName}`)
 } else{
   alert(`Простите, ${userName}, доступ закрыт`)
-}
+} */
 
-//4 
-let oneBlock = confirm('Хотите ввести название блока?')
+//4
+
+/* let oneBlock = confirm('Хотите ввести название блока?')
 if (oneBlock) {
   oneBlock = prompt('окно для ввода названия блока', '')
 } else {
@@ -44,10 +49,11 @@ if (oneModifier) {
   alert(oneBlock + oneElement)
   console.log(oneBlock + oneElement)
 }
-
+ */
 
 //5
-let firstNumber = +prompt(' введите первое число')
+
+/* let firstNumber = +prompt(' введите первое число')
 let secondNumber = +prompt(' введите второе число')
 let sumNumber = prompt('выберите нужную арифметическую операцию (division, plus, multiply, minus)')
 
@@ -61,4 +67,4 @@ if (sumNumber === 'division') {
   alert(sumNumber = firstNumber -= secondNumber)
 } else {
   alert('Не верная арифметическая операция')
-}
+} */

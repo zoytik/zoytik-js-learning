@@ -1,0 +1,23 @@
+{
+  "name": "fullhd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoytik/js-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoytik/js-task/issues"
+  },
+  "homepage": "https://github.com/zoytik/js-task#readme",
+  "dependencies": {
+    "toastify-js": "^1.12.0"
+  }
+}
